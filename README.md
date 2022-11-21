@@ -1,1 +1,1 @@
-My second readme
+Software engineering is challenging, but it's fun.
